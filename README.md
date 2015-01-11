@@ -1,6 +1,6 @@
 # elv
 
-A Clojure library designed to help with logging and viewing exceptions on the ring server. 
+File storage for elv.
 
 ## Usage
 
