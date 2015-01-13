@@ -4,8 +4,6 @@ Elv is a Clojure library designed to help with logging and viewing exceptions on
 
 Efv.file-storage stores elv logs to file system
 
-File storage for elv.
-
 ## Usage
 
 ## Geting started
