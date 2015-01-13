@@ -28,8 +28,6 @@ With Maven:
 
 ##Usage
 
-In order to set up elv to store logs in file system we v.file-storage  offers **wrap-exception** middleware so the easiest would be to use it like that:
-
 ``` clojure
 (require '[elv.core :refer :all])
 
